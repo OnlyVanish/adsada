@@ -6936,8 +6936,8 @@
     <string name="SortByReactions">Reactions First</string>
     <string name="SortByReposts">Reposts First</string>
     <string name="SortByTime">Newest First</string>
-    <string name="StoryViewsSortDescription">Choose the order for the  list of viewers.</string>
-    <string name="StoryReactionsSortDescription">Choose the order for the  list of reactions.</string>
+    <string name="StoryViewsSortDescription">Choose the order for the list of viewers.</string>
+    <string name="StoryReactionsSortDescription">Choose the order for the list of reactions.</string>
     <string name="NoContactsViewed">None of your contacts viewed this story.</string>
     <string name="Viewers">Viewers</string>
     <string name="StealthModeConfirmTitle">You are in Stealth Mode now</string>
@@ -11548,4 +11548,80 @@
     <string name="CreateManagedBotUsernameBotLimit">This bot already has a Premium username. Remove it before adding another.</string>
     <string name="CreateManagedBotUsernameSuffixMissing">The username must end in %1$s.</string>
     <string name="CreateManagedBotUsernameCheckFailed">Couldn\'t check this username. Please try again.</string>
+    <!-- ===== Voxa branding strings ===== -->
+    <string name="TelegramVersion">Voxa v%1$s</string>
+    <string name="TelegramPremium">Voxa Premium</string>
+    <string name="TelegramPremiumShort">Premium</string>
+    <string name="TelegramPremiumSubscribedTitle">You are subscribed to Voxa Premium</string>
+    <string name="TelegramPremiumSubscribedSubtitle">Thank you for supporting Voxa!</string>
+    <string name="TelegramPremiumSubtitle">Exclusive features for your account</string>
+    <string name="TelegramBusiness">Voxa Business</string>
+    <string name="TelegramBusinessSubscribedSubtitleTemp">You are subscribed to Voxa Business</string>
+    <string name="TelegramBusinessSubtitleTemp">Tools for your business</string>
+    <string name="TelegramStars">Voxa Stars</string>
+    <string name="TelegramStarsInfo2">Stars are a way to support content creators</string>
+    <string name="TelegramStarsGift">Send a gift with Stars</string>
+    <string name="TelegramStarsChoose">Choose Stars</string>
+    <string name="MenuTelegramStars">Voxa Stars</string>
+    <string name="TelegramFAQ">Voxa FAQ</string>
+    <string name="TelegramFaqUrl">https://telegram.org/faq</string>
+    <string name="TelegramFeatures">Voxa Features</string>
+    <string name="TelegramFeaturesUrl">https://telegram.org/blog</string>
+    <string name="TelegramPassport">Voxa Passport</string>
+    <string name="UpdateTelegram">Update Voxa</string>
+    <string name="AboutTelegramPremium">About Voxa Premium</string>
+
+    <!-- ===== Proxy strings ===== -->
+    <string name="UseProxyTelegram">Use Proxy</string>
+    <string name="UseProxyTelegramInfo">You can use a proxy to connect to Voxa.</string>
+    <string name="UseProxyTelegramInfo2">Proxy settings</string>
+    <string name="UseProxyTelegramError">Unable to connect through this proxy.</string>
+
+    <!-- ===== Browser strings ===== -->
+    <string name="OpenInTelegramBrowser">Open in Voxa Browser</string>
+    <string name="OpenInTelegramBrowser2">Open in Voxa Browser</string>
+
+    <!-- ===== Invite / Call strings ===== -->
+    <string name="InviteToTelegramShort">Invite to Voxa</string>
+    <string name="NumberNotOnTelegram">This number is not on Voxa</string>
+    <string name="VoiceCallViaTelegram">Voice Call via Voxa</string>
+    <string name="VideoCallViaTelegram">Video Call via Voxa</string>
+    <string name="CallViaTelegram">Call via Voxa</string>
+
+    <!-- ===== Storage / Map strings ===== -->
+    <string name="StorageUsageTelegram">Voxa Storage Usage</string>
+    <string name="StorageUsageTelegramLess">Storage usage is less than 1%</string>
+    <string name="MapPreviewProviderTelegram">Voxa Maps</string>
+
+    <!-- ===== Gift strings ===== -->
+    <string name="GiftValueLastTelegram">Last gift</string>
+    <string name="GiftValueOnSaleTelegram">On sale</string>
+    <string name="WalletFeePaidByTelegram">Fee paid by Voxa</string>
+    <string name="BoostingTelegramPremiumFor">Boosting Voxa Premium for %1$s</string>
+    <string name="GiftTelegramPremiumTitle">Gift Voxa Premium</string>
+    <string name="GiftTelegramPremiumDescription">You received Voxa Premium from %1$s</string>
+
+    <!-- ===== Premium user status dialogs ===== -->
+    <string name="TelegramPremiumUserStatusCollectibleDialogTitle">Collectible Status</string>
+    <string name="TelegramPremiumUserStatusDialogSubtitle">Choose an emoji status</string>
+    <string name="TelegramPremiumUserStatusDialogTitle">Emoji Status</string>
+    <string name="TelegramPremiumUserStatusDefaultDialogTitle">Default Status</string>
+    <string name="TelegramPremiumUserGiftedPremiumOutboundDialogTitleWithPlural">You gifted Voxa Premium to %1$s for %2$s</string>
+    <string name="TelegramPremiumUserGiftedPremiumOutboundDialogSubtitle">The recipient will be notified.</string>
+
+    <!-- ===== Premium preview features ===== -->
+    <string name="PremiumPreviewLimits">Higher Limits</string>
+    <string name="PremiumPreviewEmoji">Animated Emoji</string>
+    <string name="PremiumPreviewUploads">Large File Uploads</string>
+    <string name="PremiumPreviewDownloadSpeed">Faster Downloads</string>
+    <string name="PremiumPreviewVoiceToText">Voice-to-Text</string>
+    <string name="PremiumPreviewNoAds">No Ads</string>
+    <string name="PremiumPreviewReactions">Unique Reactions</string>
+    <string name="PremiumPreviewStickers">Premium Stickers</string>
+    <string name="PremiumPreviewAdvancedChatManagement">Advanced Chat Management</string>
+    <string name="PremiumPreviewProfileBadge">Profile Badge</string>
+    <string name="PremiumPreviewAnimatedProfiles">Animated Profile Pictures</string>
+    <string name="PremiumPreviewAppIcon">App Icons</string>
+    <string name="PremiumPreviewEmojiStatus">Emoji Status</string>
+    <string name="PremiumPreviewBusinessDescription">Tools for your business</string>
 </resources>
